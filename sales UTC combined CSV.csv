@@ -1,0 +1,101 @@
+transaction_id,customer_id,customer_name,product_id,product_name,category,quantity,unit_price,total_amount,transaction_ts,store_id,store_city,payment_method,status
+TXN10001,CUST001,Ravi Kumar,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,15-01-2024 00:12,STR01,Hyderabad,Credit Card,Completed
+TXN10002,CUST002,Priya Sharma,PRD305,Wireless Headphones,Electronics,2,3500,7000,15-01-2024 00:45,STR01,Hyderabad,UPI,Completed
+TXN10003,CUST003,Arjun Reddy,PRD102,Office Chair,Furniture,1,12000,12000,15-01-2024 01:02,STR02,Bangalore,Debit Card,Completed
+TXN10004,CUST004,Sneha Patel,PRD410,Running Shoes,Sports,3,4500,13500,15-01-2024 01:30,STR03,Mumbai,UPI,Completed
+TXN10005,CUST005,Vikram Singh,PRD201,Laptop 15 Pro,Electronics,2,75000,150000,15-01-2024 01:55,STR02,Bangalore,Credit Card,Completed
+TXN10006,CUST006,Ananya Das,PRD512,Face Moisturizer,Beauty,4,850,3400,15-01-2024 02:22,STR04,Chennai,Cash,Completed
+TXN10007,CUST007,Kiran Nair,PRD305,Wireless Headphones,Electronics,1,3500,3500,15-01-2024 02:50,STR01,Hyderabad,Credit Card,Completed
+TXN10008,CUST008,Meera Joshi,PRD620,Yoga Mat,Sports,2,1200,2400,15-01-2024 03:10,STR03,Mumbai,UPI,Completed
+TXN10009,CUST001,Ravi Kumar,PRD102,Office Chair,Furniture,1,12000,12000,15-01-2024 03:35,STR01,Hyderabad,Credit Card,Completed
+TXN10010,CUST009,Deepak Rao,PRD715,Protein Powder,Health,3,2200,6600,15-01-2024 03:58,STR05,Pune,Debit Card,Completed
+TXN10011,CUST010,Kavitha Menon,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,15-01-2024 04:25,STR02,Bangalore,Net Banking,Completed
+TXN10012,CUST011,Suresh Verma,PRD820,Novel - The Alchemist,Books,5,399,1995,15-01-2024 04:55,STR04,Chennai,Cash,Completed
+TXN10013,CUST012,Pooja Iyer,PRD305,Wireless Headphones,Electronics,1,3500,3500,15-01-2024 05:10,STR03,Mumbai,UPI,Completed
+TXN10014,CUST013,Rahul Gupta,PRD410,Running Shoes,Sports,2,4500,9000,15-01-2024 05:40,STR06,Delhi,Credit Card,Completed
+TXN10015,CUST014,Nisha Kapoor,PRD512,Face Moisturizer,Beauty,3,850,2550,15-01-2024 05:58,STR06,Delhi,Debit Card,Completed
+TXN10016,CUST015,Aditya Pillai,PRD102,Office Chair,Furniture,2,12000,24000,15-01-2024 06:30,STR05,Pune,Credit Card,Completed
+TXN10017,CUST016,Lavanya Srinivas,PRD715,Protein Powder,Health,1,2200,2200,15-01-2024 06:58,STR01,Hyderabad,UPI,Completed
+TXN10018,CUST017,Manoj Tiwari,PRD820,Novel - The Alchemist,Books,2,399,798,15-01-2024 07:20,STR06,Delhi,Cash,Completed
+TXN10019,CUST018,Divya Nambiar,PRD620,Yoga Mat,Sports,1,1200,1200,15-01-2024 07:45,STR04,Chennai,UPI,Completed
+TXN10020,CUST019,Sanjay Kulkarni,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,15-01-2024 08:10,STR05,Pune,Net Banking,Completed
+TXN10021,CUST020,Rekha Desai,PRD512,Face Moisturizer,Beauty,2,850,1700,15-01-2024 08:35,STR02,Bangalore,Credit Card,Completed
+TXN10022,CUST003,Arjun Reddy,PRD715,Protein Powder,Health,2,2200,4400,15-01-2024 09:00,STR02,Bangalore,Debit Card,Completed
+TXN10023,CUST021,Harish Nair,PRD410,Running Shoes,Sports,1,4500,4500,15-01-2024 09:25,STR03,Mumbai,UPI,Completed
+TXN10024,CUST022,Tara Singh,PRD820,Novel - The Alchemist,Books,3,399,1197,15-01-2024 09:50,STR06,Delhi,Cash,Completed
+TXN10025,CUST023,Vivek Kumar,PRD305,Wireless Headphones,Electronics,2,3500,7000,15-01-2024 10:15,STR01,Hyderabad,Credit Card,Completed
+TXN10026,CUST024,Shweta Pandey,PRD102,Office Chair,Furniture,1,12000,12000,15-01-2024 10:40,STR04,Chennai,Net Banking,Completed
+TXN10027,CUST025,Gopal Sharma,PRD620,Yoga Mat,Sports,3,1200,3600,15-01-2024 11:05,STR05,Pune,UPI,Completed
+TXN10028,CUST026,Ishita Roy,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,15-01-2024 11:30,STR03,Mumbai,Credit Card,Completed
+TXN10029,CUST027,Nikhil Jain,PRD512,Face Moisturizer,Beauty,5,850,4250,15-01-2024 11:55,STR02,Bangalore,Debit Card,Completed
+TXN10030,CUST028,Pallavi Reddy,PRD715,Protein Powder,Health,2,2200,4400,15-01-2024 12:20,STR01,Hyderabad,UPI,Completed
+TXN10031,CUST029,Saurabh Mishra,PRD410,Running Shoes,Sports,2,4500,9000,15-01-2024 12:45,STR06,Delhi,Cash,Completed
+TXN10032,CUST030,Anita Bose,PRD305,Wireless Headphones,Electronics,1,3500,3500,15-01-2024 13:10,STR04,Chennai,Credit Card,Completed
+TXN10033,CUST001,Ravi Kumar,PRD820,Novel - The Alchemist,Books,1,399,399,15-01-2024 13:35,STR01,Hyderabad,UPI,Completed
+TXN10034,CUST031,Rajesh Pillai,PRD620,Yoga Mat,Sports,2,1200,2400,15-01-2024 14:00,STR05,Pune,Debit Card,Completed
+TXN10035,CUST032,Sunita Mehta,PRD102,Office Chair,Furniture,1,12000,12000,15-01-2024 14:25,STR03,Mumbai,Net Banking,Completed
+TXN10036,CUST033,Pradeep Sahu,PRD201,Laptop 15 Pro,Electronics,2,75000,150000,15-01-2024 15:05,STR02,Bangalore,Credit Card,Completed
+TXN10037,CUST034,Vinita Lal,PRD512,Face Moisturizer,Beauty,1,850,850,15-01-2024 15:30,STR06,Delhi,Cash,Completed
+TXN10038,CUST035,Ranjit Ghosh,PRD715,Protein Powder,Health,4,2200,8800,15-01-2024 16:00,STR04,Chennai,UPI,Completed
+TXN10039,CUST036,Madhuri Nene,PRD305,Wireless Headphones,Electronics,1,3500,3500,15-01-2024 16:25,STR01,Hyderabad,Credit Card,Completed
+TXN10040,CUST037,Alok Trivedi,PRD410,Running Shoes,Sports,3,4500,13500,15-01-2024 16:50,STR05,Pune,Debit Card,Completed
+TXN10041,CUST038,Nandini Rao,PRD820,Novel - The Alchemist,Books,2,399,798,15-01-2024 17:15,STR03,Mumbai,UPI,Completed
+TXN10042,CUST039,Varun Hegde,PRD620,Yoga Mat,Sports,1,1200,1200,15-01-2024 17:40,STR02,Bangalore,Cash,Completed
+TXN10043,CUST040,Geeta Krishnan,PRD102,Office Chair,Furniture,3,12000,36000,15-01-2024 18:05,STR06,Delhi,Credit Card,Completed
+TXN10044,CUST041,Mohan Das,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,15-01-2024 18:30,STR04,Chennai,Net Banking,Completed
+TXN10045,CUST042,Savita Singh,PRD512,Face Moisturizer,Beauty,4,850,3400,15-01-2024 18:55,STR01,Hyderabad,UPI,Completed
+TXN10046,CUST043,Tarun Malhotra,PRD715,Protein Powder,Health,3,2200,6600,15-01-2024 19:20,STR05,Pune,Debit Card,Completed
+TXN10047,CUST044,Usha Varma,PRD305,Wireless Headphones,Electronics,2,3500,7000,15-01-2024 19:45,STR03,Mumbai,Credit Card,Completed
+TXN10048,CUST045,Venkat Subramanian,PRD410,Running Shoes,Sports,1,4500,4500,15-01-2024 20:10,STR02,Bangalore,UPI,Completed
+TXN10049,CUST046,Yamini Sharma,PRD820,Novel - The Alchemist,Books,4,399,1596,15-01-2024 20:35,STR06,Delhi,Cash,Completed
+TXN10050,CUST047,Zara Khan,PRD102,Office Chair,Furniture,2,12000,24000,15-01-2024 21:00,STR04,Chennai,Credit Card,Completed
+TXN10051,CUST048,Arun Pillai,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,15-01-2024 21:25,STR01,Hyderabad,Net Banking,Completed
+TXN10052,CUST049,Bindu Nair,PRD512,Face Moisturizer,Beauty,3,850,2550,15-01-2024 21:50,STR03,Mumbai,UPI,Completed
+TXN10053,CUST050,Chetan Bose,PRD620,Yoga Mat,Sports,2,1200,2400,15-01-2024 22:15,STR05,Pune,Debit Card,Completed
+TXN10054,CUST051,Deepa Menon,PRD715,Protein Powder,Health,1,2200,2200,15-01-2024 22:40,STR02,Bangalore,Credit Card,Completed
+TXN10055,CUST052,Eashwar Rao,PRD305,Wireless Headphones,Electronics,2,3500,7000,15-01-2024 23:05,STR06,Delhi,Cash,Completed
+TXN10056,CUST053,Falguni Shah,PRD102,Office Chair,Furniture,1,12000,12000,15-01-2024 23:30,STR04,Chennai,UPI,Completed
+TXN10057,CUST054,Ganesh Kumar,PRD820,Novel - The Alchemist,Books,2,399,798,15-01-2024 23:55,STR01,Hyderabad,Credit Card,Completed
+TXN10058,CUST055,Hema Reddy,PRD410,Running Shoes,Sports,1,4500,4500,16-01-2024 00:20,STR03,Mumbai,Debit Card,Completed
+TXN10059,CUST056,Indira Srinivas,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,16-01-2024 00:45,STR05,Pune,Net Banking,Completed
+TXN10060,CUST057,Jagannath Das,PRD512,Face Moisturizer,Beauty,4,850,3400,16-01-2024 01:10,STR02,Bangalore,UPI,Completed
+TXN10061,CUST058,Kamala Verma,PRD620,Yoga Mat,Sports,2,1200,2400,16-01-2024 01:35,STR06,Delhi,Cash,Completed
+TXN10062,CUST059,Lokesh Gupta,PRD715,Protein Powder,Health,3,2200,6600,16-01-2024 02:00,STR04,Chennai,Credit Card,Completed
+TXN10063,CUST060,Manju Iyer,PRD305,Wireless Headphones,Electronics,1,3500,3500,16-01-2024 02:25,STR01,Hyderabad,Debit Card,Completed
+TXN10064,CUST061,Naveen Pillai,PRD102,Office Chair,Furniture,2,12000,24000,16-01-2024 02:50,STR03,Mumbai,UPI,Completed
+TXN10065,CUST062,Omkar Joshi,PRD820,Novel - The Alchemist,Books,3,399,1197,16-01-2024 03:15,STR05,Pune,Cash,Completed
+TXN10066,CUST063,Padma Hegde,PRD410,Running Shoes,Sports,2,4500,9000,16-01-2024 03:40,STR02,Bangalore,Credit Card,Completed
+TXN10067,CUST064,Qumar Shaikh,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,16-01-2024 04:05,STR06,Delhi,Net Banking,Completed
+TXN10068,CUST065,Radha Krishnan,PRD512,Face Moisturizer,Beauty,5,850,4250,16-01-2024 04:30,STR04,Chennai,UPI,Completed
+TXN10069,CUST066,Satish Nambiar,PRD715,Protein Powder,Health,2,2200,4400,16-01-2024 04:55,STR01,Hyderabad,Debit Card,Completed
+TXN10070,CUST067,Tanuja Kapoor,PRD305,Wireless Headphones,Electronics,1,3500,3500,16-01-2024 05:20,STR03,Mumbai,Credit Card,Completed
+TXN10071,CUST068,Umesh Tiwari,PRD620,Yoga Mat,Sports,3,1200,3600,16-01-2024 05:45,STR05,Pune,Cash,Completed
+TXN10072,CUST069,Varsha Patil,PRD102,Office Chair,Furniture,1,12000,12000,16-01-2024 06:10,STR02,Bangalore,UPI,Completed
+TXN10073,CUST070,Wasim Khan,PRD820,Novel - The Alchemist,Books,4,399,1596,16-01-2024 06:35,STR06,Delhi,Debit Card,Completed
+TXN10074,CUST071,Xavier D'Souza,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,16-01-2024 07:00,STR04,Chennai,Credit Card,Completed
+TXN10075,CUST072,Yashoda Rao,PRD410,Running Shoes,Sports,2,4500,9000,16-01-2024 07:25,STR01,Hyderabad,Net Banking,Completed
+TXN10076,CUST073,Zaheer Hussain,PRD512,Face Moisturizer,Beauty,3,850,2550,16-01-2024 07:50,STR03,Mumbai,UPI,Completed
+TXN10077,CUST074,Amrita Sinha,PRD715,Protein Powder,Health,1,2200,2200,16-01-2024 08:15,STR05,Pune,Cash,Completed
+TXN10078,CUST075,Balaji Naidu,PRD305,Wireless Headphones,Electronics,2,3500,7000,16-01-2024 08:40,STR02,Bangalore,Credit Card,Completed
+TXN10079,CUST076,Chandra Sekhar,PRD620,Yoga Mat,Sports,1,1200,1200,16-01-2024 09:05,STR06,Delhi,Debit Card,Completed
+TXN10080,CUST077,Daksha Mehta,PRD102,Office Chair,Furniture,2,12000,24000,16-01-2024 09:30,STR04,Chennai,UPI,Completed
+TXN10081,CUST078,Eshaan Trivedi,PRD820,Novel - The Alchemist,Books,3,399,1197,16-01-2024 09:55,STR01,Hyderabad,Cash,Completed
+TXN10082,CUST079,Farida Begum,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,16-01-2024 10:20,STR03,Mumbai,Credit Card,Completed
+TXN10083,CUST080,Girish Kulkarni,PRD410,Running Shoes,Sports,4,4500,18000,16-01-2024 10:45,STR05,Pune,Net Banking,Completed
+TXN10084,CUST081,Haripriya Nair,PRD512,Face Moisturizer,Beauty,2,850,1700,16-01-2024 11:10,STR02,Bangalore,UPI,Completed
+TXN10085,CUST082,Ishan Bhat,PRD715,Protein Powder,Health,3,2200,6600,16-01-2024 11:35,STR06,Delhi,Debit Card,Completed
+TXN10086,CUST083,Jyothi Rani,PRD305,Wireless Headphones,Electronics,1,3500,3500,16-01-2024 12:00,STR04,Chennai,Credit Card,Completed
+TXN10087,CUST084,Karthik Subbu,PRD620,Yoga Mat,Sports,2,1200,2400,16-01-2024 12:25,STR01,Hyderabad,Cash,Completed
+TXN10088,CUST085,Latha Venkat,PRD102,Office Chair,Furniture,1,12000,12000,16-01-2024 12:50,STR03,Mumbai,UPI,Completed
+TXN10089,CUST086,Murali Krishnan,PRD820,Novel - The Alchemist,Books,5,399,1995,16-01-2024 13:15,STR05,Pune,Net Banking,Completed
+TXN10090,CUST087,Nalini Sharma,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,16-01-2024 13:40,STR02,Bangalore,Credit Card,Completed
+TXN10091,CUST088,Omana Thomas,PRD410,Running Shoes,Sports,2,4500,9000,16-01-2024 14:05,STR06,Delhi,Debit Card,Completed
+TXN10092,CUST089,Prakash Jain,PRD512,Face Moisturizer,Beauty,3,850,2550,16-01-2024 14:30,STR04,Chennai,UPI,Completed
+TXN10093,CUST090,Rajani Patel,PRD715,Protein Powder,Health,4,2200,8800,16-01-2024 14:55,STR01,Hyderabad,Cash,Completed
+TXN10094,CUST091,Sachin Desai,PRD305,Wireless Headphones,Electronics,2,3500,7000,16-01-2024 15:20,STR03,Mumbai,Credit Card,Completed
+TXN10095,CUST092,Tejaswini Rao,PRD620,Yoga Mat,Sports,1,1200,1200,16-01-2024 15:45,STR05,Pune,Net Banking,Completed
+TXN10096,CUST093,Udayan Ghosh,PRD102,Office Chair,Furniture,3,12000,36000,16-01-2024 16:10,STR02,Bangalore,UPI,Completed
+TXN10097,CUST094,Vidya Shetty,PRD820,Novel - The Alchemist,Books,2,399,798,16-01-2024 16:35,STR06,Delhi,Debit Card,Completed
+TXN10098,CUST095,Waseem Ansari,PRD201,Laptop 15 Pro,Electronics,1,75000,75000,16-01-2024 17:00,STR04,Chennai,Credit Card,Completed
+TXN10099,CUST096,Xena Rodrigues,PRD410,Running Shoes,Sports,3,4500,13500,16-01-2024 17:25,STR01,Hyderabad,Cash,Completed
+TXN10100,CUST097,Yogesh Mishra,PRD512,Face Moisturizer,Beauty,2,850,1700,16-01-2024 17:50,STR03,Mumbai,UPI,Completed
