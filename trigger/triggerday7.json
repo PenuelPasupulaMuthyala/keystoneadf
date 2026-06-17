@@ -1,0 +1,30 @@
+{
+	"name": "triggerday7",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipeline": {
+			"pipelineReference": {
+				"referenceName": "pipelineday7",
+				"type": "PipelineReference"
+			},
+			"parameters": {
+				"window_start": "@trigger().outputs.windowStartTime",
+				"window_end": "@trigger().outputs.windowEndTime"
+			}
+		},
+		"type": "TumblingWindowTrigger",
+		"typeProperties": {
+			"frequency": "Hour",
+			"interval": 1,
+			"startTime": "2026-01-15T00:00:00Z",
+			"delay": "00:00:00",
+			"maxConcurrency": 1,
+			"retryPolicy": {
+				"count": 2,
+				"intervalInSeconds": 30
+			},
+			"dependsOn": []
+		}
+	}
+}

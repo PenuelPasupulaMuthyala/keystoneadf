@@ -1,0 +1,15 @@
+{
+	"name": "keystoneade3adf3",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bcb558d2-d3a7-42d7-b237-769b7bd9ede4",
+		"tenantId": "5d2833d7-1594-4e98-816f-d87c2027a89a"
+	}
+}
