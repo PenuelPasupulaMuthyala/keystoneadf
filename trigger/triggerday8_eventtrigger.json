@@ -1,0 +1,24 @@
+{
+	"name": "triggerday8_eventtrigger",
+	"properties": {
+		"annotations": [],
+		"runtimeState": "Started",
+		"pipelines": [
+			{
+				"pipelineReference": {
+					"referenceName": "pipeline_day8_eventtrigger",
+					"type": "PipelineReference"
+				}
+			}
+		],
+		"type": "BlobEventsTrigger",
+		"typeProperties": {
+			"blobPathBeginsWith": "/bronze/blobs/source/appointments.csv",
+			"ignoreEmptyBlobs": true,
+			"scope": "/subscriptions/59e90de2-16d8-4b50-baa5-771c3b3f8cc9/resourceGroups/keystoneade3/providers/Microsoft.Storage/storageAccounts/keystoneade3stloc1",
+			"events": [
+				"Microsoft.Storage.BlobCreated"
+			]
+		}
+	}
+}
